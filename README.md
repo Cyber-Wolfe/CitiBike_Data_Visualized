@@ -14,11 +14,15 @@ From the data below we see that Citi Bikes are used for short trips with a stron
 
 ![CheckoutTimes.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/CheckoutTimes.PNG)
 
+Previous data further is supported with this heatmap , breaking down the Citi Bike usage by gender.  We can infer that from 7am-9am and 4pm-7pm are the peak hours based on the severity of the color due to the rush hour times. Then Satruday and Sunday for each gender showing a more steady use of the bikes, most likely due to leisure activities.
 
 ![GenderBreakdown.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/GenderBreakdown.PNG)
 
+A weekday breakdown to show commuting and leisure uses during the week of Citi Bike. Saturday and Sunday displayed a steady use from 8am to 7pm. Although weekdays during commuting times (7am-9am and 4pm-7pm) still show a greater use. Strangely though there is a gap on Wednesday of intensity on the 4pm-7pm timeframe that doesn't match the other days. The secondary heatmap just reinforces the previous claims.
+
 ![Heatmaps.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Heatmaps.PNG)
 
+A void of users in the west bronx area could mean that a new station(s) could be placed in the area.  The split of subscribers and customers is very defined.  An influx of stations could increase this vacancy of users.
 ![Users.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Users.PNG)
 
 
