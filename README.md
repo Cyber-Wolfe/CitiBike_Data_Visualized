@@ -14,6 +14,7 @@ From the data below we see that Citi Bikes are used for short trips with a stron
 
 ![CheckoutTimes.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/CheckoutTimes.PNG)
 
+
 ![GenderBreakdown.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/GenderBreakdown.PNG)
 
 ![Heatmaps.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Heatmaps.PNG)
