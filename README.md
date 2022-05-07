@@ -26,7 +26,7 @@ A weekday breakdown to show commuting and leisure uses during the week of Citi B
 
 The Citi Bike initiative plays a key factor in commuting and leisure activities in New York City from the data gathered. Adding these bikes into Des Moines would most likely be a great revenue generator, a congestion sweeper by reducing cars on the road, and a fun leisure activity for getting around the city when walking won't cut it. 
 
-We find that Males during rush hour are the largest users of the bikes and contribute to most of their use and both genders on the weekend use the bikes in tandem, although males still seem to be the heavy user of the service.
+We find that Males during rush hour are the largest users of the bikes and contribute to most of their use. Although both genders on the weekends use the bikes, males have a heavy reliance on them on all days.
 
 ## Suggestion for NYC's Future
 A void of users in the west bronx area could mean that a new station(s) could be placed in the area. There is a use split of subscribers and customers in the area which could be merged with an influx of stations. This influx could trickle down through the Bronx and help create a greater influx for the area.
