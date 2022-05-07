@@ -7,15 +7,15 @@ What this tableau visualiztion is meant to do is to coerce investors that a bike
 
 ## Analyses
 
-[Start_End.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Start_End.PNG)
+![Start_End.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Start_End.PNG)
 
-[CheckoutTimes.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/CheckoutTimes.PNG)
+![CheckoutTimes.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/CheckoutTimes.PNG)
 
-[GenderBreakdown.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/GenderBreakdown.PNG)
+![GenderBreakdown.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/GenderBreakdown.PNG)
 
-[Heatmaps.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Heatmaps.PNG)
+![Heatmaps.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Heatmaps.PNG)
 
-[Users.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Users.PNG)
+![Users.PNG](https://github.com/Cyber-Wolfe/Citi_Bike_Visualize/blob/main/Captures/Users.PNG)
 
 
 Show the length of time that bikes are checked out for all riders and genders
