@@ -3,7 +3,7 @@
 [Link to Tableau](https://public.tableau.com/app/profile/joshua.wolfe/viz/CitiBikeVisuals_16518969647970/Story1)
 
 ## Purpose
-What this tableau visualiztion is meant to do is to coerce investors that a bike-sharing program like Citi Bike in New York City could be done in Des Moines with great success. So for that to be done these visualizations had been made.
+This tableau visualiztion is meant to coerce investors that a bike-sharing program like Citi Bike in New York City could be done in Des Moines with great success. So for that point to be made, these visualizations were created to help illustrate the proposition.
 
 ## Analyses
 A heat map showing where trips start and how many from that location and then a secondary map of the same data but rather show the end of the trips.
