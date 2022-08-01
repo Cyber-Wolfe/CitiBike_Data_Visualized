@@ -1,6 +1,6 @@
 # Citi Bike Visualized!
 
-[Link to Tableau](https://public.tableau.com/app/profile/joshua.wolfe/viz/CitiBikeVisuals_16518969647970/Story1)
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/joshua.wolfe/viz/CitiBikeVisuals_16518969647970/Story1)
 
 ## Purpose
 This tableau visualiztion is meant to coerce investors that a bike-sharing program like Citi Bike in New York City could be done in Des Moines with great success. So for that point to be made, these visualizations were created to help illustrate the proposition.
